@@ -1,4 +1,6 @@
 /*
+NOTE: Following question is from HackerEarth
+
 You are given a String  of size , consisting of lowercase English characters. 
 Now, you need to select a single English lowercase alphabet, and delete all occurences of it 
 from the given string 
@@ -29,13 +31,9 @@ We can delete all occurences of the letter  to get a resultant string of length 
 
 package codingpractice;
 
-
 import java.util.*;
 
-
-// Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
-
-class TestClass {
+class YoAC {
     public static void main(String args[] ) throws Exception {
        
         //Scanner
